@@ -14,7 +14,7 @@ I'm a QA/automation engineer with **5+ years of experience** designing and build
 - Containerize test environments with **Docker** for reproducible, cross-platform execution
 - Work with **PostgreSQL** and **MySQL** for data validation and test result storage
 - Run functional, regression, integration, and performance tests
-- Work with embedded communication protocols: MODBUS, RS-485, NB-IoT
+- Work with embedded communication protocols: MODBUS, RS-485, NB-IoT, ABNT, DLMS
 
 
 ---
@@ -43,7 +43,7 @@ In 2024, I completed a **6-month international assignment at Hexing Group** in H
 
 - **RS-485 Communication Tool** — Python/Tkinter GUI for special-mode activation, real-time log reading, and CSV/XLSX data export
 - **Test Environment Containerization** — Multi-platform Docker images on DockerHub, standardising test execution across distributed teams
-- **Senior Thesis — Energy Meter (UTC/ABNT)** — Automated test scripts for firmware validation against local and international communication standards
+- **Senior Thesis — Energy Meter (UTC/ABNT/DLMS)** — Automated test scripts for firmware validation against local and international communication standards
 
 
 ---
